@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.center {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+    font-weight: 900;
+    color: steelblue;
+}
+
+.align {
+    margin-top: 60px;
+}
+
+.first,
+.second {
+    font-size: 20px;
+    color: chocolate;
+    text-align: center;
+}
