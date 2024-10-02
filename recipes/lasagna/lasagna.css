@@ -1,0 +1,49 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color:rgb(48, 243, 146);
+}
+
+h2 {
+    color: brown;
+}
+
+.header {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.para {
+    line-height: 25px;
+    font-style: italic;
+    text-align: center;
+}
+
+#lists {
+    line-height: 35px;
+    color: cadetblue;
+    text-align: center;
+}
+
+ol {
+    color: blueviolet;
+    text-align: center;
+}
+
+.first,
+.second {
+    color: darkgoldenrod;
+}
+
