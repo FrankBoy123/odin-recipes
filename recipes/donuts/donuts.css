@@ -9,15 +9,19 @@
     display: flex;
     height: 100%;
     justify-content: space-around;
-    border: 15px solid black;
+    border: 10px solid black;
 }
 
 .ordered-list {
-    color: red;
-    background-color: rgb(231, 148, 54);
+    color: #956437;
+    background-color: rgb(255, 250, 189);
     padding: 20px;
-    border: 15px solid black;
-    outline: 10px solid red;
+    text-align: center;
+    list-style: none;
+    font-weight: bold;
+    line-height: 50px;
+    margin-bottom: 60px;
+    /*change style on ordered list*/
 }
 
 .header {
