@@ -59,7 +59,12 @@
     margin: auto;
     font-size: 22px;
     outline: 2px solid black;
-    border-top: 25px solid orange;
+    border-top: 25px solid  #956437;
     width: fit-content;
     border-radius: 5%;
+}
+
+.donuts-container img {
+    width: 300px;
+    height: auto;
 }
