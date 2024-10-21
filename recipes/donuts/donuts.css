@@ -41,8 +41,11 @@
 .Ingredients {
     text-align: center;
     font-size: 20px;
-    display: block;
+    display: flex;
     padding: 20px;
-    border: 15px solid yellow;
-    block-size: auto;
+    border: 15px solid rgb(158, 102, 49);
+    width: fit-content;
+    justify-content: center;
+    background-color: #956437;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
