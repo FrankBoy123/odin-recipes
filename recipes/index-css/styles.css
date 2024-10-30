@@ -1,6 +1,7 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
+    background-color: blueviolet;
 }
 
 .center {
@@ -20,4 +21,22 @@ body {
     font-size: 20px;
     color: chocolate;
     text-align: center;
+}
+
+#Ordered-list {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin-top: auto;
+}
+
+li {
+    list-style-type: none;
+    font-size: larger;
+    font-weight: 700;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
 }
